@@ -1,0 +1,19 @@
+{
+  "name": "outline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "markdown-it": "^10.0.0",
+    "mathjax": "^3.0.1",
+    "normalize-opentype.css": "^0.2.4",
+    "tailwindcss": "^1.2.0"
+  }
+}
